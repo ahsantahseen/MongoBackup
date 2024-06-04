@@ -2,7 +2,7 @@
 
 > A Lightweight shell script designed to automate the backup process of MongoDB databases and send the backup files via email. This script ensures that your database backups are created securely and efficiently, with an easy-to-follow setup and execution process.
 
-<a href="https://ibb.co/HnHB615"><img src="https://i.ibb.co/J5smV0D/Add-a-heading-1.png" alt="Add-a-heading-1" border="0"></a>
+<a href="https://ibb.co/8KqjJmj"><img src="https://i.ibb.co/Bzbgmfg/Mongo-Backup-Service.png" alt="Mongo-Backup-Service" border="0"></a>
 
 ### Features
 
